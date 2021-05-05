@@ -3,3 +3,4 @@ console.log('Bye!');
 console.log('1');
 console.log('Something new');
 console.log('Something new 2');
+console.log('Something new 3');
